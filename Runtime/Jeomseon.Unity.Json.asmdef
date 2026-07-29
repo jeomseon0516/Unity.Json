@@ -1,6 +1,6 @@
 {
   "name": "Jeomseon.Unity.Json",
-  "rootNamespace": "Jeomseon",
+  "rootNamespace": "Jeomseon.Data",
   "references": [
     "Unity.Newtonsoft.Json"
   ],

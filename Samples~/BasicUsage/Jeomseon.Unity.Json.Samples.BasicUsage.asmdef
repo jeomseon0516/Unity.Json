@@ -1,5 +1,6 @@
 {
   "name": "Jeomseon.Unity.Json.Samples.BasicUsage",
+  "rootNamespace": "Jeomseon.Samples.Json",
   "references": [
     "Jeomseon.Unity.Json"
   ]
