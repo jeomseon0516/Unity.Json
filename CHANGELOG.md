@@ -1,5 +1,9 @@
 # 변경 기록
 
+## [0.1.1] - 2026-07-29
+
+- JSON 목록 래퍼 타입을 확인하는 `Basic Usage` 샘플을 추가했습니다.
+
 ## [Unreleased]
 
 - TODO(api): 단순 직렬화 모델은 Unity JsonUtility로 대체 가능한지 확인하고, 다형성·사전 지원이 필요한 경우에만 Newtonsoft.Json을 유지합니다.
