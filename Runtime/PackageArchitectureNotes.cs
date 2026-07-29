@@ -1,4 +1,4 @@
-namespace Jeomseon.PackageNotes
+namespace Jeomseon.Data
 {
     internal static class PackageArchitectureNotes
     {
