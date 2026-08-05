@@ -3,7 +3,8 @@
   "version": "0.1.2",
   "displayName": "Jeomseon Unity JSON",
   "description": "JSON data container utilities using Newtonsoft.Json.",
-  "unity": "2022.3",
+  "unity": "6000.3",
+  "unityRelease": "15f1",
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.0.2"
   },
