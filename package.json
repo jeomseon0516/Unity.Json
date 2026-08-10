@@ -1,12 +1,12 @@
 {
   "name": "com.jeomseon.unity.json",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "displayName": "Jeomseon Unity JSON",
   "description": "JSON data container utilities using Newtonsoft.Json.",
   "unity": "6000.5",
   "unityRelease": "7f1",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.0.2"
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
   },
   "author": {
     "name": "jeomseon0516",
