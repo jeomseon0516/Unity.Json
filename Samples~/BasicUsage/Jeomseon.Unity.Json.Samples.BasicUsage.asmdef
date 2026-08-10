@@ -3,5 +3,9 @@
   "rootNamespace": "Jeomseon.Samples.Json",
   "references": [
     "Jeomseon.Unity.Json"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll"
   ]
 }
