@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Jeomseon.Data;
+using Jeomseon.Unity.Json;
 using Newtonsoft.Json;
 using NUnit.Framework;
 using UnityEngine;

@@ -1,6 +1,6 @@
 {
   "name": "Jeomseon.Unity.Json",
-  "rootNamespace": "Jeomseon.Data",
+  "rootNamespace": "Jeomseon.Unity.Json",
   "references": [],
   "overrideReferences": true,
   "precompiledReferences": [

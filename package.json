@@ -1,6 +1,6 @@
 {
   "name": "com.jeomseon.unity.json",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "displayName": "Jeomseon Unity JSON",
   "description": "JSON data container utilities using Newtonsoft.Json.",
   "unity": "6000.5",

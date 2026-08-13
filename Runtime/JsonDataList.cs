@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using UnityEngine;
 
-namespace Jeomseon.Data
+namespace Jeomseon.Unity.Json
 {
     /// <summary>
     /// Newtonsoft.Json으로 역직렬화한 JSON 배열을 담는 읽기 전용 컨테이너입니다.

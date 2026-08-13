@@ -1,4 +1,4 @@
-using Jeomseon.Data;
+using Jeomseon.Unity.Json;
 using Newtonsoft.Json;
 using UnityEngine;
 
