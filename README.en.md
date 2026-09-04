@@ -2,12 +2,33 @@
 
 JSON data container utilities using Newtonsoft.Json.
 
-## Installation
+## Install via OpenUPM
 
-Before OpenUPM registration, use **Add package from git URL** in Package Manager with the following address.
+Register the OpenUPM scoped registry once in your project's `Packages/manifest.json`.
+
+```json
+{
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.jeomseon"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.jeomseon.unity.json": "0.3.1"
+  }
+}
+```
+
+## Install via Git URL
+
+Enter the following URL in Unity Package Manager's `Install package from git URL`.
 
 ```text
-https://github.com/jeomseon0516/Unity.Json.git#v0.1.1
+https://github.com/jeomseon0516/Unity.Json.git#v0.3.1
 ```
 
 ## Usage
